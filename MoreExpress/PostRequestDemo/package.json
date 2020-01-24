@@ -1,0 +1,24 @@
+{
+  "name": "postrequestdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zekkino/node.git"
+  },
+  "author": "zekkino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zekkino/node/issues"
+  },
+  "homepage": "https://github.com/Zekkino/node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
